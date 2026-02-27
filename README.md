@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/a85ccb75-32e1-4792-83a8-808c15431dbb
 |                 |                           |
 | --------------- | -----------------------   |
 | **Team ID**     | LTVIP2026TMIDS74475       |
-| **Team Leader** | masarapu balasubramanyam  |
+| **Team Leader** | Masarapu balasubramanyam  |
 | **Team Member** | M chakradhar Reddy        |
 | **Team Member** | Mohana krishna Neerukattu |
 | **Team Member** | Vinay Harsha              |
@@ -68,7 +68,7 @@ smartinternz/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Sujeeth-Varma/Weather-Based-Prediction-of-Wind-Turbine-Energy-Output.git
+git clone 
 ```
 
 ### 2. Create & Activate Virtual Environment
